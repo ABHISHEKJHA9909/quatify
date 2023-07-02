@@ -68,8 +68,3 @@ Please ensure that your code adheres to the project's coding conventions and sty
 ## License
 
 The Quatify project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- The developers of the quote API used in this project.
-- Any other resources or references you used.
